@@ -38,8 +38,7 @@ var json_Lesmicrofermes_1 = {
         production: "légumes",
         animaux: "ruches",
         label: "oui, terredurable",
-        photo:
-          "https://images.unsplash.com/photo-1648238035330-d127e6fa4a98?fit=crop\n",
+        photo: "/data/images/marais.jpg\n",
       },
       geometry: {
         type: "Point",
